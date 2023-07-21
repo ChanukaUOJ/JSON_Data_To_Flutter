@@ -1,0 +1,80 @@
+link : https://mocki.io/v1/c5828bc2-afcc-4a57-9f69-befc129d1569
+
+[
+    {
+   "name": "Chanuka Ranathunga",
+   "age": "23",
+   "image":"https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+   "name": "Chamith Chanuka",
+   "age": "17",
+   "image":"https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+   "name": "Henry Clasen",
+   "age": "22",
+   "image":"https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+   "name": "Premakirthi Alvis",
+   "age": "54",
+   "image":"https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+   "name": "Supun Perera",
+   "age": "19",
+   "image":"https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    {
+   "name": "Alex Lee",
+   "age": "29",
+   "image":"https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    {
+   "name": "Mohan Alvis",
+   "age": "56",
+   "image":"https://randomuser.me/api/portraits/men/82.jpg"
+    },
+    {
+   "name": "Predaz Horu",
+   "age": "87",
+   "image":"https://randomuser.me/api/portraits/men/61.jpg"
+    },
+    {
+   "name": "Suthakar Pori",
+   "age": "45",
+   "image":"https://randomuser.me/api/portraits/men/61.jpg"
+    },
+    {
+   "name": "Subash nodra",
+   "age": "12",
+   "image":"https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    {
+   "name": "Utrik Marad",
+   "age": "17",
+   "image":"https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    {
+   "name": "Zehan Hopi",
+   "age": "67",
+   "image":"https://randomuser.me/api/portraits/men/68.jpg"
+    },
+    {
+   "name": "Balasundram Subash",
+   "age": "43",
+   "image":"https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+   "name": "Henri Kaldera",
+   "age": "26",
+   "image":"https://randomuser.me/api/portraits/men/69.jpg"
+    },
+    {
+   "name": "Notaz Vijay",
+   "age": "56",
+   "image":"https://randomuser.me/api/portraits/men/92.jpg"
+    }
+   
+   ]
